@@ -1,14 +1,14 @@
 {
   username: 'Wayne Chiu',
   projects: [
-    'https://play.niceday.tw/',
+    'https://play.niceday.tw/'
   ],
   background: [
-    'Full Stack Javascript Engineer',
+    'Full Stack Javascript Engineer'
   ],
   interests: [
     'blockchain',
-    'mining',
+    'mining'
   ],
   github: 'https://github.com/CHAOWEICHIU'
 }
