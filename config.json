@@ -1,23 +1,14 @@
 {
-  "username": "johndoe91",
-  "name": "John Doe",
-  "projects": [
-    "http://github.com/john91doe/profiles",
-    "http://github.com/john91doe/i-learn-css-flexbox",
-    "http://github.com/john91doe/my-webpage"
+  username: 'Wayne Chiu',
+  projects: [
+    'https://play.niceday.tw/',
   ],
-  "background":[
-    "A graduate student from NTUT Interaction Design Dept",
-    "Front-end",
-    "Javascript 1 year",
-    "HTML 2 months",
-    "CSS 3 months",
-    "SASS 2 months"
+  background: [
+    'Full Stack Javascript Engineer',
   ],
-  "interests":[
-    "JavaScript (how to build web, desktop and mobile apps)",
-    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
+  interests: [
+    'blockchain',
+    'mining',
   ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
+  github: 'https://github.com/CHAOWEICHIU'
 }
